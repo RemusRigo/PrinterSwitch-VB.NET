@@ -1,4 +1,10 @@
-﻿Imports System.Drawing.Printing
+﻿'--------------------------------------------------------------------------------------------------
+' PrinterSwitch - A simple system tray application to quickly switch the default printer
+'    © 2026 Remus Rigo
+'       v1.0.2026-03-17
+'--------------------------------------------------------------------------------------------------
+
+Imports System.Drawing.Printing
 Imports System.Reflection
 Imports System.Runtime.InteropServices
 Imports System.Windows.Forms
